@@ -1,8 +1,6 @@
 /*
 Author: Salma Mahmoud	
-Course: CS 222
 File Name: balldrop.c
-Last Date of Modification: 11/4/2015
 */
 
 #include <stdio.h> /* For printf() */ 
